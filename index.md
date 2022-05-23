@@ -1,3 +1,9 @@
+### Table of Contents
+[What Is Magic: The Gathering?](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#what-is-magic-the-gathering)
+[How to Start a Magic Game](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#how-to-start-a-magic-game)
+[Playing Magic](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#playing-magic)
+[Static Abilities](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#static-abilities)
+
 # What Is Magic: The Gathering?
 
 Magic: The Gathering is a card game that has been around from 1993, its first release and has been played by people for almost 3 decades. It is a game with many mechanics and there are more than 20,000 unique cards in the game to date. There are 5 different colors of cards in the game; White, Black, Red, Blue, and Green. There are cards that use a mix of these colors and even cards that don't use any of them, in other words colorless cards.
@@ -17,7 +23,7 @@ Magic: The Gathering is a card game that has been around from 1993, its first re
 
 5. Next, decide on a person who would go first. While going first may seem advantageous, you aren't allowed to draw if you do so until your next turn. This can be bad for some who mulliganed against someone who had not. Anyways, anyone who plays after the first person is allowed to draw a card on their first turn.
 
-## Playing Magic 
+## Playing Magic
 
 ![Turn_structure](https://user-images.githubusercontent.com/105888980/169732054-2057c0e1-4c88-445c-8f80-59998cd9a3ec.jpeg)
 
