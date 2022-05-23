@@ -38,3 +38,8 @@ Anyways, the attacking phase has attacking and blocking creatures. The attacking
 ![Screenshot 2022-05-22 7 34 48 PM](https://user-images.githubusercontent.com/105888980/169825405-b413418b-e4bf-41f6-b5be-a217ee17843d.png)
 
 Now that I described most of the attack phase, lets talk about the second main phase, a pretty easy phase if I do say so myself. The second main phase is literally a copy of the first one. If you haven't put down a land during your turn then you can put one down, if you wonder how you could get a kand card in your hand during the attack phase, some spells have abilities that let you do so and therefore allow this clause. If you have any lands untapped, you could also use their mana to play another card. That is all you need to know about turn phases.
+
+## Static Abilities
+
+Now I will talk about the different static abilities within the game, such as Vigilance which was talked about before. 
+![Abilities_Compare](https://user-images.githubusercontent.com/105888980/169826869-b9c16972-2b54-4291-aad7-ee95fa75aa95.jpeg)
