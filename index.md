@@ -19,7 +19,12 @@ Magic: The Gathering is a card game that has been around from 1993, its first re
 
 ## Playing Magic 
 
-There are 3 phases within a Magic player's turn. The main phase, the attack phase, and the end phase. The main phase allows you to place down a land, a mana producing source of at least one of color, in most land cases as there are some that only give colorless mana. If you have enough lands untapped to play a creature, sorcery, or instant. The image below decribes how to read a card much better than I could ever do.
+![Turn_structure](https://user-images.githubusercontent.com/105888980/169732054-2057c0e1-4c88-445c-8f80-59998cd9a3ec.jpeg)
+
+The above image describes the 5 phases of a player's turn. The begin and end phases aren't that important as those phases are just systematic. The main phase, the attack phase, and the end phase are the real meat and bones. The main phase allows you to place down a land, a mana producing source of at least one of color, in most land cases as there are some that only give colorless mana. If you have enough lands (which are a card type) untapped to play a creature, sorcery, enchantment, artifact, or instant. The image below decribes how to read a card much better than I could ever do.
 
 ![1_m1feqHB3FbymQTJsWSqF5A](https://user-images.githubusercontent.com/105888980/169731458-dec41028-0f31-4361-b90e-aaf8e3bdcda8.jpg)
 
+As seen from the image a card has a cost. In the example above, the 1 represents mana of any color while the 1 red symbol represents a red mana. So, the card would have a total cost of 2 mana, with one of them needing to be a red mana. 
+
+Anyways, the attacking phase has attacking and blocking creatures. The attacking units are the ones that the player that is currently playing owns and the blockers are the ones from the other players not currently on their turn. When a creature attacks, unless they have Vigilance, a static ability to prevent tapping, the creature taps and therefore won't be able to block the on the enemy player's next turn or use any abilities that require them to tap. 
