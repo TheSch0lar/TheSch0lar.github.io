@@ -1,7 +1,10 @@
 ### Table of Contents
 [What Is Magic: The Gathering?](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#what-is-magic-the-gathering)
+
 [How to Start a Magic Game](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#how-to-start-a-magic-game)
+
 [Playing Magic](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#playing-magic)
+
 [Static Abilities](https://github.com/TheSch0lar/TheSch0lar.github.io/blob/main/index.md#static-abilities)
 
 # What Is Magic: The Gathering?
