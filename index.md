@@ -41,5 +41,19 @@ Now that I described most of the attack phase, lets talk about the second main p
 
 ## Static Abilities
 
-Now I will talk about the different static abilities within the game, such as Vigilance which was talked about before. 
+Now I will talk about the different static abilities within the game, such as Vigilance which was talked about before. Below is a list of the non recent abilities and I will talk about only them as most starter packs shouldn't be using things such as Reconfigure or Connive (If you are curious about these abilities though search them up).
 ![Abilities_Compare](https://user-images.githubusercontent.com/105888980/169826869-b9c16972-2b54-4291-aad7-ee95fa75aa95.jpeg)
+
+- Deathtouch just means that as long as a creature deals any amount of damage to another, it will die. Even 1 damage to a 20 health creature will cause the 20 toughness creature to perish.
+- Defender just means that a creature can't attack on attack phases, only block.
+- First strike means that a creature can attack before other creatures, but not attack when the other creature would be able to attack. Basically if a 3/1 creature with first strike attacked a creature with 1/3 without first strike, instead of mutual destruction, only the 1/3 creature would die.
+- Double strike is just as it says, a creature can do a first strike and then also attack when other creatures can also attack. It basically also doubles a creature's attack as they can attack twice in an attacking phase.
+- Flying creatures are creatures that can't be blocked unless by other flying creatures or creatures with reach.
+- Indestructible is just as you would expect it, a creature can't die even if its toughness goes below 0. There are ways of going around this though, like exiling the card or using a spell that subtracts from the creature's power/toughness like -x/-x, which requires certain spells to do. If you are wondering why spells that subtracts from creatures' power/toughness works, it is simply because if a creature doesn't have health in the first place, how can it exist?
+- Lifelink makes it that whatever damage a creature deals to a unit or player, the creature's controller gains that much life. If I controlled a 2/2 creature that has lifelink, then whenever it deals damage, I heal 2 health.
+- Reach enables a creature to block flying creatures.
+- Trample makes it so that instead of being able to block a 20/20 creature's damage with a small 1/1 creature, the damage that wasn't used to kill that creature is carried on to the enemy player. In the example I gave, a player would then take 19 damage as the attacking creature used 1 of its power to kill the 1/1 creature.
+- Vigilance, as described before, makes it so that when a creature attacks, it doesn't tap. This means that the next enemy turn, it would still have the ability to defend even if it had attacked before.
+- Menace makes it so that a creature isn't possible to block unless 2 creatures minimum are used. This can be useful early game if an enemy is having a hard time getting more than one creature on the field, you could keep attacking and they wouldn't be able to stop it. Before you think anything else though, Menace does not make it possible for a creature to block 2 attacking creatures, it only blocks 1 creature like other units.
+- Hexproof, as you can see there are quite a few versions of hexproof. The main version of hexproof protects against any sorcery or instant that an enemy player controls would target a creature. In other words, creatures with hexproof can only be taken out attacking them with creatures or using spells that target everything on the battlefield. Different versions of hexproof seen in the image protect against only a specific color, so if an enemy has spells of multiple colors it doesn't help as much.
+
