@@ -30,11 +30,9 @@ As seen from the image a card has a cost. In the example above, the 1 represents
 Anyways, the attacking phase has attacking and blocking creatures. The attacking units are the ones that the player that is currently playing owns and the blockers are the ones from the other players not currently on their turn. When a creature attacks, unless they have Vigilance, a static ability to prevent tapping, the creature taps and therefore won't be able to block the on the enemy player's next turn or use any abilities that require them to tap. When attacking, always be mindful of your creature's toughness and power, as seen in the example card above power and toughness are assigned to a card at the bottom right, with power being before the slash and toughness being after. If a blocking creature's toughness are more than an attacking creature's power then the attack can be negated without any damage to a player. You can block with a creature weaker than an attacking creature, but then the blocking creature would die from the damage. The opposite situations can occur with attacking creatures. Finally, you can also block with multiple creatures, but remember that blocking creatures have to be unblocked. Examples are below, these images are from the official Magic website.
 
 ![Screenshot 2022-05-22 7 34 06 PM](https://user-images.githubusercontent.com/105888980/169825302-77d748b2-7834-4841-b0d5-4c0151de146e.png)
-
 ![Screenshot 2022-05-22 7 34 15 PM](https://user-images.githubusercontent.com/105888980/169825365-478e9290-065f-49ea-9ad8-7c745c4e2468.png)
 
 ![Screenshot 2022-05-22 7 34 27 PM](https://user-images.githubusercontent.com/105888980/169825381-828f721f-1bec-40e8-9f95-eb76dbf5cfab.png)
-
 ![Screenshot 2022-05-22 7 34 32 PM](https://user-images.githubusercontent.com/105888980/169825393-3df1445e-c24d-4c79-9dd9-b9fa9e189021.png)
 
 ![Screenshot 2022-05-22 7 34 48 PM](https://user-images.githubusercontent.com/105888980/169825405-b413418b-e4bf-41f6-b5be-a217ee17843d.png)
