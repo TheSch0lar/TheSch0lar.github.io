@@ -21,7 +21,7 @@ Magic: The Gathering is a card game that has been around from 1993, its first re
 
 ![Turn_structure](https://user-images.githubusercontent.com/105888980/169732054-2057c0e1-4c88-445c-8f80-59998cd9a3ec.jpeg)
 
-The above image describes the 5 phases of a player's turn. The begin and end phases aren't that important as those phases are just systematic. The main phase, the attack phase, and the end phase are the real meat and bones. The main phase allows you to place down a land, a mana producing source of at least one of color, in most land cases as there are some that only give colorless mana. If you have enough lands (which are a card type) untapped to play a creature, sorcery, enchantment, artifact, or instant. The image below decribes how to read a card much better than I could ever do.
+The above image describes the 5 phases of a player's turn. The begin and end phases aren't that important as those phases are just systematic. The main phase, the attack phase, and the second main phase are the real meat and bones. The main phase allows you to place down a land, a mana producing source of at least one of color, in most land cases as there are some that only give colorless mana. If you have enough lands (which are a card type) untapped to play a creature, sorcery, enchantment, artifact, or instant. The image below decribes how to read a card much better than I could ever do.
 
 ![1_m1feqHB3FbymQTJsWSqF5A](https://user-images.githubusercontent.com/105888980/169731458-dec41028-0f31-4361-b90e-aaf8e3bdcda8.jpg)
 
@@ -37,3 +37,4 @@ Anyways, the attacking phase has attacking and blocking creatures. The attacking
 
 ![Screenshot 2022-05-22 7 34 48 PM](https://user-images.githubusercontent.com/105888980/169825405-b413418b-e4bf-41f6-b5be-a217ee17843d.png)
 
+Now that I described most of the attack phase, lets talk about the second main phase, a pretty easy phase if I do say so myself. The second main phase is literally a copy of the first one. If you haven't put down a land during your turn then you can put one down, if you wonder how you could get a kand card in your hand during the attack phase, some spells have abilities that let you do so and therefore allow this clause. If you have any lands untapped, you could also use their mana to play another card. That is all you need to know about turn phases.
