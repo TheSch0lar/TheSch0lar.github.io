@@ -1,16 +1,20 @@
-# What Is Magic: The Gathering?
-
-Magic: The Gathering is a card game that has been around from 1993, its first release and has been played by people for almost 3 decades. It is a game with many mechanics and there are more than 20,000 unique cards in the game to date. There are 5 different colors of cards in the game; White, Black, Red, Blue, and Green. There are cards that use a mix of these colors and even cards that don't use any of them, in other words colorless cards.
-
-![Commandcycle](https://user-images.githubusercontent.com/105888980/169730913-5e032002-1be6-439f-a898-79bfd6416e8d.jpg)
+# Magic: The Gathering
 
 ### Table of Contents
+
+[What is Magic: The Gathering?](https://thesch0lar.github.io/#:~:text=much%20into%20detail.-,What%20Is%20Magic%3A%20The%20Gathering%3F,-Magic%3A%20The%20Gathering)
 
 [How to Start a Magic Game](https://thesch0lar.github.io/#:~:text=words%20colorless%20cards.-,How%20to%20Start%20a%20Magic%20Game,-You%20need%20to)
 
 [Playing Magic](https://thesch0lar.github.io/#:~:text=their%20first%20turn.-,Playing%20Magic,-The%20above%20image)
 
 [Static Abilities](https://thesch0lar.github.io/#:~:text=about%20turn%20phases.-,Static%20Abilities,-Now%20I%20will)
+
+## What is Magic: The Gathering?
+
+Magic: The Gathering is a card game that has been around from 1993, its first release and has been played by people for almost 3 decades. It is a game with many mechanics and there are more than 20,000 unique cards in the game to date. There are 5 different colors of cards in the game; White, Black, Red, Blue, and Green. There are cards that use a mix of these colors and even cards that don't use any of them, in other words colorless cards.
+
+![Commandcycle](https://user-images.githubusercontent.com/105888980/169730913-5e032002-1be6-439f-a898-79bfd6416e8d.jpg)
 
 ## How to Start a Magic Game
 
