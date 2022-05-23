@@ -21,6 +21,5 @@ Magic: The Gathering is a card game that has been around from 1993, its first re
 
 There are 3 phases within a Magic player's turn. The main phase, the attack phase, and the end phase. The main phase allows you to place down a land, a mana producing source of at least one of color, in most land cases as there are some that only give colorless mana. If you have enough lands untapped to play a creature, sorcery, or instant. The image below decribes how to read a card much better than I could ever do.
 
-![How-to-Read-a-Creature-Card-1024x763](https://user-images.githubusercontent.com/105888980/169731258-11f64b3a-1dd4-4fb6-b06b-4e14fc80e281.jpeg)
 ![1_m1feqHB3FbymQTJsWSqF5A](https://user-images.githubusercontent.com/105888980/169731458-dec41028-0f31-4361-b90e-aaf8e3bdcda8.jpg)
 
