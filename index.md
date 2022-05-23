@@ -1,5 +1,7 @@
 # Magic: The Gathering
 
+Hello, I am Sammy Hamouda from John Glenn High School. This is my Hackathon submission, a guide on how to start playing Magic in real life. I say in real life since there is a free app on the app store, that honestly consumes less money. If you don't want to use money for the real life version of MTG and are still interested in it, please at least try out the app as it is completely free. Anyways, onto the content.
+
 ### Table of Contents
 
 [What is Magic: The Gathering?](https://thesch0lar.github.io/#:~:text=much%20into%20detail.-,What%20Is%20Magic%3A%20The%20Gathering%3F,-Magic%3A%20The%20Gathering)
